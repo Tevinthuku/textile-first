@@ -1,0 +1,40 @@
+This is a paragraph.
+
+This is another paragraph
+
+<!-- h1 header -->
+
+h1. This is a Heading 1
+
+This might be an introductory paragraph on the general topic
+<!-- h2 header -->
+
+h2. Heading 2 gets more specific
+
+Now were getting to the details
+
+<!-- Trademark signs -->
+
+Registered Trademark(r), Trademark(tm), and Copyright (c) 2008
+
+
+The  EPA(Environment Protection Agency) is measuring GHG(greenhouse gas) emissions.
+
+<!-- A long paragraph -->
+
+Even Mr. Sedaris, a noted lucite, has finally succumbed to doing Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum quasi similique impedit accusantium excepturi sapiente perferendis quidem consequuntur ipsa assumenda! Dolores voluptas asperiores obcaecati eos hic, sint suscipit nesciunt magnam.
+
+<!-- block qoute below -->
+
+
+bq. I have a quote Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum ad ducimus similique porro repellendus earum culpa? Doloribus repudiandae accusamus labore, sed assumenda. Voluptatum atque laboriosam dolorum suscipit libero facilis sint.
+<!-- paragraph -->
+
+Havent we all pondered that at one time or another?
+
+<!-- Bullet lists -->
+* Its easier on the eyes
+* You do not have to write it.
+** It requires fewer keystrokes
+*** Sleek keyboard
+*** Foldable keyboard
